@@ -8,3 +8,5 @@ Ovie Khaira Zayyan (22/494801/TK/54315)
 [Link Video Demo Presentasi](https://youtu.be/_WAz4HzR4YY)
 
 [Link Blog Notion](https://pool-smell-b0f.notion.site/Analisis-Perubahan-Harga-Emas-terhadap-Perubahan-Harga-Kurs-Dollar-Rupiah-143c62c61a5d805d9b58dcccfe70d1e4)
+
+[Link Analisis Google Colab](https://colab.research.google.com/drive/1Z2JhbcZArrSdHWo7ZUxhkLu2FIEXnkgQ?usp=sharing)
